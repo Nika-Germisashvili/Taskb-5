@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 40px 39px 0px;
+  min-height: 884px;
+}
+
+.cbox {
+  background: rgba(26, 161, 121, 0.5);
+  height: 160px;
+  border-radius: 16px;
+}
+
